@@ -1,14 +1,1 @@
-# hello-world
-Follow the guides
- Readme-edits
-
-//should i use git to edit this file?
-//this is a practice that follows the guides
-this is for practice
-
-
-
-
-
-
-master
+i modified it at 19:47,2021.2.8
